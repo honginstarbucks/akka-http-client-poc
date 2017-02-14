@@ -1,4 +1,4 @@
-name := "all"
+name := "rest-poc"
 version := "1.0"
 organization := "com.example"
 
